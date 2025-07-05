@@ -3,13 +3,13 @@
 
   # Chef
 
-    [bold]1.[/bold] The Chef is not permitted to use the corpses of deceased personnel for meat unless given specific permission from the Chief Medical Officer. Exception is made for changelings and any other executed personnel not slated for Borgifications;
+    [bold]1.[/bold] The Chef is not permitted to use the corpses of deceased personnel for meat unless given specific permission from the Chief Medical Officer. Exception is made for changelings and any other executed personnel not slated for Borgification;
 
-    [bold]2.[/bold] The Chef is permitted to use Ambrosia and other such light narcotics in the production of food; given they are legal.
+    [bold]2.[/bold] The Chef is permitted to use Ambrosia and other such light narcotics in the production of food, given they are legal;
 
     [bold]3.[/bold] The Chef must produce at least three (3) dishes of any food within twenty (20) minutes. Failure to do so is to be considered a breach of Standard Operating Procedure;
 
-    [bold]4.[/bold] The Chef is not permitted to leave the kitchen unattended for longer than fifteen (15) minutes if there is no food available for consumption. Exception is made if there are no ingredients, or if the Kitchen is unusable/a hazard zone.
+    [bold]4.[/bold] The Chef is not permitted to leave the kitchen unattended for longer than fifteen (15) minutes if there is no food available for consumption. Exception is made if there are no ingredients, or if the Kitchen is unusable/a hazard zone;
 
     [bold]5.[/bold] The Chef has full permission to forcefully throw out anyone who climbs over the kitchen table without permission. They are not, however, permitted to do so if the person in question uses the door, or is on an active investigation;
 
@@ -23,6 +23,8 @@
 
     [bold]4.[/bold] The Bartender has full permission to forcefully throw out anyone who climbs over the bar counter without permission, up to and including personnel who may have access to the side windoor. They are not, however, permitted to do so if the person in question uses the door, or is on an active investigation;
 
+    [bold]5.[/bold] The Bartender is allowed to pre-prepare drinks, however they must respond to all reasonable requests within a timely fashion.
+
   # Botanist
 
     [bold]1.[/bold] Botanists are permitted to grow experimental plants, presuming they do not distribute it without the express permission of the HOP.
@@ -31,11 +33,11 @@
 
     [bold]3.[/bold] Botanists are not permitted to cause unregulated plantlife to spread outside of Hydroponics or other such designated locations without express permission of the HOP or Captain.
 
-    [bold]4.[/bold] Botanists are not permitted to hand out spatially unstable Botanical Supplies to non-Hydroponics personnel.
+    [bold]4.[/bold] In the case that a mutation creates a dangerous gas, they must endeavour to prevent the spread of the gas, lest it affect the rest of the crew.
 
-    [bold]5.[/bold] Botanists are not permitted to harvest or hand out Amanitin or other such plant/fungi-derived poisons, unless specifically requested by the Head of Security and/or Captain.
+    [bold]5.[/bold] Botanists are not permitted to harvest or hand out Amatoxin or other such plant/fungi-derived poisons, unless specifically requested by the Head of Security and/or Captain.
 
-    [bold]6.[/bold] Botanists are not permitted the use of a chemical dispenser without the express permission of the Research Director and Head of Personnel.
+    [bold]6.[/bold] Botanists are not permitted the use of a ChemMaster 4000 without the express permission of the Research Director and Head of Personnel.
 
     [bold]7.[/bold] Botanists are not permitted to carry dangerous plantlife outside Botany, or allow such plantlife to affect outside of Botany.
 
@@ -53,7 +55,7 @@
 
   # Mime
 
-    [bold]1.[/bold] The Mime is not permitted to talk, under any circumstance whatsoever. A Mime who breaks the Vow of Silence is to be stripped of their rank post haste;
+    [bold]1.[/bold] The Mime is not permitted to talk, under any circumstance whatsoever. A Mime who breaks the Vow of Silence is to be stripped of their rank post-haste;
 
     [bold]2.[/bold] The Mime is permitted to use written words to communicate, either via paper or PDA, but are discouraged from automatically resorting to it when miming will suffice;
 
@@ -75,15 +77,17 @@
 
     [bold]3.[/bold] The Janitor is not to use Cleaning Foam Grenades as pranking implements. Cleaning Foam Grenades are to be used to clean large surfaces at once, only;
 
-    [bold]4.[/bold] During Viral Outbreaks, the Janitors must don their Biosuit, and focus on cleaning any biological waste, until such a point as the Viral Pathogen is deemed eliminated;
+    [bold]4.[/bold] The Janitor must place mousetraps where they are needed, or provide them to those who need it. Example areas include the Kitchen, Bar, Chemistry, and around the Supermatter containment area;
 
-    [bold]5.[/bold] The Janitor may not deploy bear traps anywhere, unless there are actually large wild animals on the station.
+    [bold]5.[/bold] The Janitor is required to refill the vending machines around the station as needed, and must ensure that every machine is working properly;
+
+    [bold]6.[/bold] During Viral Outbreaks, the Janitors must don their Biosuit, and focus on cleaning any biological waste, until such a point as the Viral Pathogen is deemed eliminated;
 
   # Reporter
 
-    [bold]1.[/bold] The Reporter is permitted to report on any events aboard the station, including those involving Security and Command staff.
+    [bold]1.[/bold] The Reporter is permitted to report on any events aboard the station, including those involving Security and Command staff;
 
-    [bold]2.[/bold] The Reporter is not, however, permitted to use slanderous or libelous language or rhetoric when reporting on events such as arrests or imprisonment.
+    [bold]2.[/bold] The Reporter is not, however, permitted to use slanderous or libelous language or rhetoric when reporting on events involving Nanotrasen-employed crew;
 
-    [bold]3.[/bold] The Reporter should only use positive language when referring to Nanotrasen and Central Command. If unsure about whether or not this should apply to an article, Reporters are advised to fax Centcomm a copy for editorial review.
+    [bold]3.[/bold] The Reporter should only use positive language when referring to Nanotrasen and Central Command. If unsure about whether or not this would apply to an article, Reporters are advised to fax CentComm a copy for editorial review.
 </Document>

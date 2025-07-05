@@ -11,7 +11,7 @@
 
   [bold]4.[/bold] The Captain is not to leave the Station unless given specific permission by Central Command, or it happens to be the end of the shift. To do so is to be considered abandoning their posts and is grounds for termination;
 
-  [bold]5.[/bold] The Captain must keep the Nuclear Authentication Disk on their person at all times or failing that, in the possession of the Head of Security or Blueshield;
+  [bold]5.[/bold] The Captain must keep the Nuclear Authentication Disk on their person at all times or failing that, in the possession of the Head of Security or Blueshield Officer;
 
   [bold]6.[/bold] The Captain is to attempt to resolve every issue that arises in Command locally before contacting Central Command;
 
@@ -31,7 +31,7 @@
 
   [bold]4.[/bold] The Head of Personnel may not fire any personnel without authorization from the relevant Head of Staff, unless other conditions apply (see Space Law and General Standard Operating Procedure);
 
-  [bold]5.[/bold] The Head of Personnel may not promote anyone to the job of NanoTrasen Representative or Blueshield;
+  [bold]5.[/bold] The Head of Personnel may not promote anyone to the job of NanoTrasen Representative or Blueshield Officer;
 
   [bold]6.[/bold] The Head of Personnel is free to utilize paperwork at their discretion. However, during major station emergencies, expediency should take precedence over bureaucracy;
 
@@ -53,24 +53,28 @@
 
   # Blueshield Officer SOP
 
-  [bold]1.[/bold] The Blueshield may not conduct arrests under the same conditions as Security. However, they may apprehend any personnel that trespass on a Head of Staff Office or Command Area, any personnel that steal from those locations, or any personnel that steal from and/or injure any Head of Staff or Central Command VIP. However, all apprehended personnel are to be processed by Security personnel;
+  [bold]1.[/bold] The Blueshield Officer may not conduct arrests under the same conditions as Security. However, they may apprehend any personnel that trespass on a Head of Staff Office or Command Area, any personnel that steal from those locations, or any personnel that steal from and/or injure any Head of Staff or Central Command VIP. However, all apprehended personnel are to be processed by Security personnel;
 
-  [bold]2.[/bold] The Blueshield is to put the lives of Command over those of any other personnel, the Blueshield included. Their continued well-being is the Blueshield's top priority. This includes applying basic first aid and making sure they are revived if killed;
+  [bold]2.[/bold] The Blueshield Officer is to put the lives of Command over those of any other personnel, the Blueshield Officer included. Their continued well-being is the Blueshield Officer's top priority. This includes applying basic first aid and making sure they are revived if killed;
 
-  [bold]3.[/bold] The Blueshield is to protect the lives of Command personnel, not follow their orders to a fault. The Blueshield is not to interfere with legal demotions or arrests. To do so is to place themselves under the Special Modifier Aiding and Abetting;
+  [bold]3.[/bold] The Blueshield Officer is to protect the lives of Command personnel, not follow their orders to a fault. The Blueshield Officer is not to interfere with legal demotions or arrests. To do so is to place themselves under the Special Modifier Aiding and Abetting;
 
-  [bold]4.[/bold] The Blueshield is not to apply Lethal Force unless there is a clear and present danger to their life, or to the life of a member of Command and the assailant cannot be non-lethally detained.
+  [bold]4.[/bold] The Blueshield Officer is not to apply Lethal Force unless there is a clear and present danger to their life, or to the life of a member of Command and the assailant cannot be non-lethally detained.
 
   # If you need to deviate,
 
   [bold]Document document document![/bold]
-  After action reports, calling CentCom on the fabled red phone, or even praying will be heard by CentCom and your actions may be excused if they were determined to be in the best interest for NanoTrasen.
+  After action reports, calling CentComm on the fabled red phone, or even praying will be heard by CentCom and your actions may be excused if they were determined to be in the best interest for NanoTrasen.
 
   # I'm Command, but I don't see my job listed here
 
-  It may be because this is a living document, and SOP is not yet finalized. The following SOP documents are completed for other Head's of Staff;
+  It may be because this is a living document, and SOP is not yet finalized. The following SOP documents are completed for other Heads of Staff;
 
   -[textlink="Head of Security SOP" link="SecuritySOP"]
+  -[textlink="Quartermaster SOP" link="CargoSOP"]
+  -[textlink="Chief Medical Officer SOP" link="MedicalSOP"]
+  -[textlink="Chief Engineer SOP" link="EngineeringSOP"]
+  -[textlink="Research Director SOP" link="ScienceSOP"]
 
   Glory to NanoTrasen!
 </Document>
